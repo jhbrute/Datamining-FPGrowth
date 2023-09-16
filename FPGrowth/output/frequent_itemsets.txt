@@ -1,0 +1,47 @@
+# Dataset: basket.csv
+# Minimum Support: 20
+whole milk
+pastry
+pastry,whole milk
+yogurt
+soda
+canned beer
+canned beer,whole milk
+rolls/buns
+whipped/sour cream
+whipped/sour cream,whole milk
+beef
+beef,whole milk
+butter
+butter,whole milk
+butter,soda
+butter,other vegetables
+other vegetables
+tropical fruit
+tropical fruit,whole milk
+butter milk
+frozen meals
+frozen meals,whole milk
+root vegetables
+shopping bags
+shopping bags,other vegetables
+shopping bags,whole milk
+bottled water
+bottled water,whole milk
+dessert
+dessert,whole milk
+brown bread
+brown bread,whole milk
+brown bread,rolls/buns
+fruit/vegetable juice
+fruit/vegetable juice,rolls/buns
+fruit/vegetable juice,whole milk
+berries
+berries,whole milk
+cream cheese
+cream cheese ,whole milk
+pork
+pork,whole milk
+pork,other vegetables
+ice cream
+ice cream,rolls/buns
